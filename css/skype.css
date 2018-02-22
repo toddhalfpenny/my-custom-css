@@ -1,0 +1,6 @@
+/* skype.css */
+
+:root .swx .callScreen {
+  height: 30% !important;
+  min-height: 100px !important;
+}
